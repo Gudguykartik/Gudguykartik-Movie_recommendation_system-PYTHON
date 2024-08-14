@@ -28,7 +28,3 @@ Choose the latest versions of any of the dependencies below:
 * [surprise](http://surpriselib.com/)
 * [keras](https://keras.io/)
 * [h5py](https://www.h5py.org/)
-
-## License
-
-MIT. See the LICENSE file for the copyright notice.
